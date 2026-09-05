@@ -7,7 +7,7 @@ manifest:
     - name: caksoylar
       url-base: https://github.com/caksoylar
     - name: unspecworks
-      url-base: https://github.com/unspecworks
+      url-base: https://github.com/dh083064-ai
   projects:
     - name: zmk
       remote: zmkfirmware
